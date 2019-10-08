@@ -1,7 +1,7 @@
 # eBin
 4G06 Capstone Project
 
-#Team Member
+## Team Member
 
-#Overview
+## Overview
 
